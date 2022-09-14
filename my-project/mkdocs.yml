@@ -1,0 +1,26 @@
+site_name: MyFirst Document
+
+site_url: https://example.com/
+nav:
+    - Home: index.md
+    - About: about.md
+    - License: license.md
+    - Http_ErrCodes: Http_Error_Codes.md   
+    - Getting Started: getting-started.md
+    - FAQ: FAQ.md
+ 
+ 
+theme: readthedocs
+
+docs:
+    - Home: index.md
+    - About: about.md
+    - License: license.md
+    - Http_ErrCodes: Http_Error_Codes.md   
+    - Getting Started: getting-started.md
+    - Image:  img/screenshot.png
+    - Image:  img/costcalculator.png
+    - FAQ: FAQ.md
+
+   
+   
