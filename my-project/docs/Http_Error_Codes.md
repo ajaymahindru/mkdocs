@@ -1,6 +1,6 @@
 # Welcome to AJAY_MkDocs
 
-For full documentation visit [mkdocs.org](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes).
+For full documentation visit [mkdocs.org] <b> (https://en.wikipedia.org/wiki/List_of_HTTP_status_codes) </b>.
 
 
 Informational| Success       | Redirection  |  Client Error | Server Error  | 
